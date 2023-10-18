@@ -1,0 +1,52 @@
+21:33:58 **** Rebuild of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+21:34:29 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+Info: Nothing to build for EX3
+21:34:54 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+21:36:31 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+21:36:36 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+Info: Nothing to build for EX3
+21:37:01 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+21:37:25 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+Info: Nothing to build for EX3
+21:38:01 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+21:38:36 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3
+21:38:52 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+Info: Nothing to build for EX3

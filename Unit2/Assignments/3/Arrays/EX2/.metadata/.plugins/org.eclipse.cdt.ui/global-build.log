@@ -1,0 +1,10 @@
+20:02:54 **** Rebuild of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2
+20:03:28 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2

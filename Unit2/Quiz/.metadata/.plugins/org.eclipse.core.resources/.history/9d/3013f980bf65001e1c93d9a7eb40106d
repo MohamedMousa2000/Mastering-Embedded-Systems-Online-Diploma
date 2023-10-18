@@ -1,0 +1,19 @@
+/*
+ ============================================================================
+ Name        : test.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+char arr[]= "abc";
+int e = 1|2|3|4;
+	printf("%d", e);
+	return EXIT_SUCCESS;
+}

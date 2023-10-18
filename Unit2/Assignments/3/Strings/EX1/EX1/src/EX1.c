@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : EX1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Find the frequency of a character in a string
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	char arr[100];
+	char c;
+	printf("Enter a string: ");
+	fflush(stdin); fflush(stdout);
+	gets(arr);
+	printf("Enter a character to find frequency: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%c", &c);
+	int i;
+	int counter = 0;
+	for (i = 0; i < 100; i++)
+	{
+		if (arr[i] == c)
+		{
+			counter += 1;
+		}
+		else
+		{
+			continue;
+		}
+		
+	}
+	printf("Frequency of %c = %d", c, counter);
+
+	return EXIT_SUCCESS;
+}

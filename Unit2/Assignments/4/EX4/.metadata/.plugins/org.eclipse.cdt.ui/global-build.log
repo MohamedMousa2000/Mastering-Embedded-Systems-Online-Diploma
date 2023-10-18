@@ -1,0 +1,43 @@
+17:11:27 **** Rebuild of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+17:13:39 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+..\src\EX4.c: In function 'main':
+..\src\EX4.c:22:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d", Base);
+          ^
+..\src\EX4.c:25:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d", Power);
+          ^
+..\src\EX4.c:22:2: warning: 'Base' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d", Base);
+  ^~~~~~~~~~~~~~~~~
+..\src\EX4.c:25:2: warning: 'Power' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d", Power);
+  ^~~~~~~~~~~~~~~~~~
+gcc -o EX4.exe "src\\EX4.o" 
+17:13:53 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4
+17:16:47 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+Info: Nothing to build for EX4
+17:17:20 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+Info: Nothing to build for EX4
+17:18:17 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+Info: Nothing to build for EX4

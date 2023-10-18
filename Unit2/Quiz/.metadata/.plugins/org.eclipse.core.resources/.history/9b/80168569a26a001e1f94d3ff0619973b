@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : test.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void fun(int s, ...);
+
+int main(void)
+{
+	printf("%p\n", main());
+	return EXIT_SUCCESS;
+}
+
+void fun(int s, ...)
+{
+	printf("%d", s);
+}

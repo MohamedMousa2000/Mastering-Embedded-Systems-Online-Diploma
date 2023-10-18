@@ -1,0 +1,15 @@
+16:38:19 **** Rebuild of configuration Debug for project EX5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX5.o" "..\\src\\EX5.c" 
+gcc -o EX5.exe "src\\EX5.o" 
+Info: Nothing to build for EX5
+Info: Nothing to build for EX5
+Info: Nothing to build for EX5
+16:39:31 **** Incremental Build of configuration Debug for project EX5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX5.o" "..\\src\\EX5.c" 
+gcc -o EX5.exe "src\\EX5.o" 
+Info: Nothing to build for EX5
+Info: Nothing to build for EX5
+Info: Nothing to build for EX5
+Info: Nothing to build for EX5

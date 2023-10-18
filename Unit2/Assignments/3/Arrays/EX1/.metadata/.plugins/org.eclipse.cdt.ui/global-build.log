@@ -1,0 +1,74 @@
+19:39:59 **** Rebuild of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+..\src\EX1.c: In function 'main':
+..\src\EX1.c:24:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+    printf("Enter a%d%d: %d;\n", i+1, j+1);
+                          ^
+..\src\EX1.c:37:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+    printf("Enter a%d%d: %d;\n", i+1, j+1);
+                          ^
+..\src\EX1.c:43:6: error: redefinition of 'i'
+  int i = 0;
+      ^
+..\src\EX1.c:17:6: note: previous definition of 'i' was here
+  int i = 0;
+      ^
+..\src\EX1.c:44:6: error: redefinition of 'j'
+  int j = 0;
+      ^
+..\src\EX1.c:18:6: note: previous definition of 'j' was here
+  int j = 0;
+      ^
+19:40:30 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+..\src\EX1.c: In function 'main':
+..\src\EX1.c:24:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+    printf("Enter a%d%d: %d;\n", i+1, j+1);
+                          ^
+..\src\EX1.c:37:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+    printf("Enter a%d%d: %d;\n", i+1, j+1);
+                          ^
+gcc -o EX1.exe "src\\EX1.o" 
+19:41:27 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+19:43:22 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+19:44:31 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+Info: Nothing to build for EX1
+19:45:17 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+19:46:28 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+19:46:51 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1
+19:47:30 **** Incremental Build of configuration Debug for project EX1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1.o" "..\\src\\EX1.c" 
+gcc -o EX1.exe "src\\EX1.o" 
+Info: Nothing to build for EX1

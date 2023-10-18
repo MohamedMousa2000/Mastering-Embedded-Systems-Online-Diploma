@@ -1,0 +1,19 @@
+/*
+ ============================================================================
+ Name        : test.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i = 0x10 + 010 +10;
+	printf("%f", 9/5*5.0+32);
+
+	return EXIT_SUCCESS;
+}

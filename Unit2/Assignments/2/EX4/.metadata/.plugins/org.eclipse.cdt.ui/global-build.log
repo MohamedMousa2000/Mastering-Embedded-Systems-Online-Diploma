@@ -1,0 +1,20 @@
+02:04:57 **** Rebuild of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+..\src\EX4.c: In function 'main':
+..\src\EX4.c:21:15: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   printf("%0.2f is positive.\n");
+               ^
+..\src\EX4.c:25:15: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   printf("%0.2f is negative.\n");
+               ^
+gcc -o EX4.exe "src\\EX4.o" 
+02:05:16 **** Incremental Build of configuration Debug for project EX4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX4.o" "..\\src\\EX4.c" 
+gcc -o EX4.exe "src\\EX4.o" 
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4
+Info: Nothing to build for EX4

@@ -1,0 +1,41 @@
+01:50:06 **** Rebuild of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+..\src\EX2.c: In function 'main':
+..\src\EX2.c:26:12: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   printf("%c is a consonant.\n")
+            ^
+..\src\EX2.c:27:2: error: expected ';' before '}' token
+  }
+  ^
+01:50:18 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+..\src\EX2.c: In function 'main':
+..\src\EX2.c:26:12: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   printf("%c is a consonant.\n");
+            ^
+gcc -o EX2.exe "src\\EX2.o" 
+01:50:29 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2
+01:51:06 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2
+Info: Nothing to build for EX2
+01:52:07 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2
+01:53:49 **** Incremental Build of configuration Debug for project EX2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX2.o" "..\\src\\EX2.c" 
+gcc -o EX2.exe "src\\EX2.o" 
+Info: Nothing to build for EX2
+Info: Nothing to build for EX2
+Info: Nothing to build for EX2

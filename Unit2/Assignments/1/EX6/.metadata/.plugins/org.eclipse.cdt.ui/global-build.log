@@ -1,0 +1,29 @@
+20:28:03 **** Rebuild of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+Info: Nothing to build for EX6
+Info: Nothing to build for EX6
+20:29:06 **** Incremental Build of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+20:29:37 **** Incremental Build of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+20:29:58 **** Incremental Build of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+Info: Nothing to build for EX6
+20:30:56 **** Incremental Build of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+Info: Nothing to build for EX6
+20:31:10 **** Incremental Build of configuration Debug for project EX6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX6.o" "..\\src\\EX6.c" 
+gcc -o EX6.exe "src\\EX6.o" 
+Info: Nothing to build for EX6

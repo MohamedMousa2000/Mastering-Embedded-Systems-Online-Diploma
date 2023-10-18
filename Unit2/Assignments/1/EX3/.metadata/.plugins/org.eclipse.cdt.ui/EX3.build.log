@@ -1,0 +1,7 @@
+19:48:06 **** Incremental Build of configuration Debug for project EX3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX3.o" "..\\src\\EX3.c" 
+gcc -o EX3.exe "src\\EX3.o" 
+
+19:48:06 Build Finished. 0 errors, 0 warnings. (took 416ms)
+

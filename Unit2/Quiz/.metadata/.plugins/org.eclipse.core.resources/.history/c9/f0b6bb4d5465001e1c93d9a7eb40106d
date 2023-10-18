@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : test.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	unsigned short i = 3;
+	switch(i)
+	{
+		printf("DDDDDDDDDD");
+		case 3: printf("CCCCCCCCC");break;
+		case 1+2: printf("AAAAAAAAA");break;
+		default:printf("RRRRRRRRR");
+	}
+	return EXIT_SUCCESS;
+}

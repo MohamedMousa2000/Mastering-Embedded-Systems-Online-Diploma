@@ -1,0 +1,51 @@
+/*
+ ============================================================================
+ Name        : EX3.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Reverse a sentence using recursion
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void Reverse(char Before[], char After[], int length, int iterator);
+
+int main(void) 
+{
+	char Before[100];
+	char After[100];
+	printf("Enter a sentence: ");
+	fflush(stdin); fflush(stdout);
+	gets(Before);
+	int i;
+	int counter = 0;
+	for (i = 0; i < 100; i++)
+	{
+		if (Before[i] == '\0')
+		{
+			break;
+		}
+		else
+		{
+			counter += 1;
+		}
+	}
+	Reverse(Before, After, counter - 1, 0);
+	for (i = 0; i < counter; i++)
+	{
+		printf("%c", After[i]);
+	}
+	return EXIT_SUCCESS;
+}
+
+void Reverse(char Before[], char After[], int length, int iterator)
+{
+	if (iterator <= length)
+	{
+		After[length - iterator] = Before[iterator];
+		Reverse(Before, After, length, iterator + 1);
+	}
+}
